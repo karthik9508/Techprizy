@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="techprizy-gradient" x1="10" y1="8" x2="54" y2="56" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" />
+      <stop offset="1" stop-color="#0F172A" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#techprizy-gradient)" />
+  <path
+    fill="#FFFFFF"
+    d="M10 14h24v8H26v28h-8V22H10V14Zm26 0h10c6.627 0 12 5.373 12 12s-5.373 12-12 12h-2v12h-8V14Zm8 8v8h2c2.209 0 4-1.791 4-4s-1.791-4-4-4h-2Z"
+  />
+</svg>
